@@ -48,14 +48,6 @@ footer{background:#102d20;color:#eaf0e8;padding:40px 0 20px}.footer-top{display:
 
 
 
-<section class="process" id="manufacturing"><div class="wrap"><div class="section-head"><div><span class="eyebrow">Inside our bakery</span><h2>From preparation to <span class="accent">perfectly packed.</span></h2></div><p>Every stage matters. Our production story is built around care, organised processes and attention to the finished product.</p></div><div class="process-grid">
-<article class="process-card"><div class="process-img"><img src="https://images.unsplash.com/photo-1585478259715-876acc5be8eb?auto=format&fit=crop&w=650&q=85" alt="Preparing dough" loading="lazy" onerror="this.style.display='none'"></div><span class="num">01 / PREPARATION</span><h3>Ingredients & Dough</h3><p>Preparing ingredients and dough for each product.</p></article>
-<article class="process-card"><div class="process-img"><img src="https://images.unsplash.com/photo-1555507036-ab1f4038808a?auto=format&fit=crop&w=650&q=85" alt="Bakery production" loading="lazy" onerror="this.style.display='none'"></div><span class="num">02 / BAKING</span><h3>Into the Oven</h3><p>Turning prepared dough into delicious bakery products.</p></article>
-<article class="process-card"><div class="process-img"><img src="https://images.unsplash.com/photo-1608198093002-ad4e005484e5?auto=format&fit=crop&w=650&q=85" alt="Fresh baked bread" loading="lazy" onerror="this.style.display='none'"></div><span class="num">03 / QUALITY</span><h3>Careful Checks</h3><p>Reviewing finished products before the next stage.</p></article>
-<article class="process-card"><div class="process-img"><img src="https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=650&q=85" alt="Bakery products ready to pack" loading="lazy" onerror="this.style.display='none'"></div><span class="num">04 / PACKING</span><h3>Ready for Packing</h3><p>Organising products for handling and distribution.</p></article>
-<article class="process-card"><div class="process-img"><img src="https://images.unsplash.com/photo-1558961363-fa8fdf82db35?auto=format&fit=crop&w=650&q=85" alt="Bakery products ready for market" loading="lazy" onerror="this.style.display='none'"></div><span class="num">05 / DISTRIBUTION</span><h3>On the Way</h3><p>Preparing finished products for our business partners.</p></article>
-</div></div></section>
-
 
 
   
